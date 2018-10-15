@@ -1,0 +1,40 @@
+h1{
+    margin-left: 40px;
+    color:737373;
+}
+.over-all{
+    margin: 20px;
+}
+.main-cointainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 5px;
+    cursor: pointer;
+}
+.cointainer{
+    margin: 5px;
+}
+a{
+    color: black;
+}
+p{
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+i{
+    color: #737373;
+}
+.main{
+    display: flex;
+}
+.icon{
+    display: flex;
+}
+.free{
+    display: flex;
+    margin-top: -4px;
+    margin-left: 40px;
+    color: #6dc693;
+    font-weight: bold;
+}
